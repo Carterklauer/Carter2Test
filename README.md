@@ -1,4 +1,4 @@
-# React Tinder Card Demo
+# React Animated Popup Demo
 
 A demo project to my [react-animated-popup](https://github.com/3DJakob/react-animated-popup) npm module.
 
