@@ -9,18 +9,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "89227575ad81f494269f",
-    "url": "/static/js/2.9719b5e4.chunk.js"
+    "url": "/react-animated-popup/static/js/2.9719b5e4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.9719b5e4.chunk.js.LICENSE.txt"
+    "url": "/react-animated-popup/static/js/2.9719b5e4.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e10c948719aad1b08a3e",
-    "url": "/static/js/main.3dd7d8b1.chunk.js"
+    "url": "/react-animated-popup/static/js/main.3dd7d8b1.chunk.js"
   },
   {
     "revision": "05f48ac64709ed9b290e",
-    "url": "/static/js/runtime-main.e901df6e.js"
+    "url": "/react-animated-popup/static/js/runtime-main.e901df6e.js"
   }
 ]);
