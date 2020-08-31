@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.css": "/react-animated-popup-demo/static/css/main.5ecd60fb.chunk.css",
     "main.js": "/react-animated-popup-demo/static/js/main.3dd7d8b1.chunk.js",
     "main.js.map": "/react-animated-popup-demo/static/js/main.3dd7d8b1.chunk.js.map",
     "runtime-main.js": "/react-animated-popup-demo/static/js/runtime-main.e901df6e.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "precache-manifest.31eb41b9b66461203a9bc346688ea3ba.js": "/precache-manifest.31eb41b9b66461203a9bc346688ea3ba.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-animated-popup-demo/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.9719b5e4.chunk.js.LICENSE.txt": "/react-animated-popup-demo/static/js/2.9719b5e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
